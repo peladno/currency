@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor de Divisas</string>
+
+    <string-array name="currencies_array">
+        <item>Dólar (USD)</item>
+        <item>Euro (EUR)</item>
+
+    </string-array>
+</resources>
